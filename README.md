@@ -1,4 +1,7 @@
-#Gustavo Almeida
+# Gustavo Almeida
+___
+## About Me
+I'm a mechanical engineer passionate about Computational Fluid Dynamics (CFD) and programming.
 
 <!--
 **gupalmeida/gupalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
