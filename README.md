@@ -1,4 +1,5 @@
 # Gustavo Almeida
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-pv-almeida/)](https://www.linkedin.com/in/gustavo-pv-almeida/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gupalmeida@gmail.com)](mailto:gupalmeida@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512996694513&text=Olá!)](https://api.whatsapp.com/send?phone=5512996694513&text=Olá!)
 ___
 ## About Me
 I'm a mechanical engineer passionate about Computational Fluid Dynamics (CFD) and programming.
