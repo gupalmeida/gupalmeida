@@ -9,7 +9,7 @@ ___
 ## :small_blue_diamond: Education
 * B.Sc. Mechanical Engineering (2011)
 * M.Eng. Aeronautical Engineering (2015)
-* Ph.D. Electrical Engineering and Computer Sciences (2021)
+* Ph.D. Electronic and Computer Engineering (2021)
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-pv-almeida/)](https://www.linkedin.com/in/gustavo-pv-almeida/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gupalmeida@gmail.com)](mailto:gupalmeida@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512996694513&text=Olá!)](https://api.whatsapp.com/send?phone=5512996694513&text=Olá!)
